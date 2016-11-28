@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_tab_1">TabActivity_1</string>
+    <string name="title_activity_tab_2">TabActivity_2</string>
+    <string name="text3">This page displays list of files</string>
+    <string name="text2">This space is to display the message</string>
+
+</resources>
